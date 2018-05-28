@@ -18,4 +18,4 @@ You have to install these modules. (version)
 - **iter**: HITS iteration (The larger the words in the input text are, the bigger the number of it should be.)
 - **vocabSize**: vocabulary size of output
 
-If you try to it, please `sh quick_start.sh`. 
+If you try this script, please `sh quick_start.sh`. 
