@@ -2,7 +2,6 @@ import argparse
 import utilities as util
 import word_graph
 import hits
-import math
 
 def main():
     parser = argparse.ArgumentParser(usage='sorry, look at readme...', \
