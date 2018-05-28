@@ -9,6 +9,7 @@ def extract_context(input_file, window_size):
     co_occur: one word to co-occurrence word
     word_occur: occur word (as token)
     context_occur: co-occurrence word
+    This function is a very naive implementation; I want to devise a little more.
     """
 
     co_occur = collections.defaultdict(int)
